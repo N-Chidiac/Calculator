@@ -3,13 +3,6 @@ Calculator Web App
 A simple and stylish calculator built using HTML, CSS, and JavaScript.
 Perfect as a beginner-friendly project for practicing DOM manipulation and UI layout.
 
-Demo
-
-(Add a link here later if you host it on GitHub Pages)
-Example:
-
-https://yourusername.github.io/calculator/
-
 Features
 
 Basic arithmetic: add, subtract, multiply, divide
