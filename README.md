@@ -34,11 +34,6 @@ JavaScript (ES6) – Logic & updates
 
 How to Use
 
-Clone the repository:
-
-git clone https://github.com/yourusername/calculator.git
-
-
 Open the project folder:
 
 cd calculator
